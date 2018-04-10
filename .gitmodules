@@ -1,0 +1,12 @@
+[submodule "alpine-tor"]
+	path = alpine-tor
+	url = https://github.com/danielguerra69/alpine-tor.git
+[submodule "alpine-privoxy"]
+	path = alpine-privoxy
+	url = https://github.com/danielguerra69/alpine-privoxy.git
+[submodule "alpine-i2pd"]
+	path = alpine-i2pd
+	url = https://github.com/danielguerra69/alpine-i2pd.git
+[submodule "alpine-sshd"]
+	path = alpine-sshd
+	url = https://github.com/danielguerra69/alpine-sshd.git
